@@ -21,6 +21,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Code-CraAte/leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/Code-CraAte/leetcode_solution/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/Code-CraAte/leetcode_solution/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
