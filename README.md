@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
