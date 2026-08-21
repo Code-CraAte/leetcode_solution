@@ -23,6 +23,7 @@
 | [0242-valid-anagram](https://github.com/Code-CraAte/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/Code-CraAte/leetcode_solution/tree/master/0771-jewels-and-stones) |
+| [3498-reverse-degree-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
