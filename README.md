@@ -36,6 +36,7 @@
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+| [4024-nearest-available-drone](https://github.com/Code-CraAte/leetcode_solution/tree/master/4024-nearest-available-drone) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0206-reverse-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [4024-nearest-available-drone](https://github.com/Code-CraAte/leetcode_solution/tree/master/4024-nearest-available-drone) |
 <!---LeetCode Topics End-->
