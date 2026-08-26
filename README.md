@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
@@ -84,12 +85,18 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 ## Enumeration
 |  |
 | ------- |
 | [4024-nearest-available-drone](https://github.com/Code-CraAte/leetcode_solution/tree/master/4024-nearest-available-drone) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
