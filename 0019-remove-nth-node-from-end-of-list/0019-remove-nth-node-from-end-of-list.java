@@ -13,19 +13,19 @@ class Solution {
         if(head.next == null){
             return null;
         }
-        int size= 0;
+        int size=0;
         ListNode curr = head;
         while(curr != null){
-            curr = curr.next;
+            curr =curr.next;
             size++;
         }
         if(n == size){
             return head.next;
         }
-        int prevofn = size-n;
+        int prevIndex = size-n;
         ListNode prev = head;
         int i=1;
-        while(i< prevofn){
+        while(i< prevIndex){
             prev = prev.next;
             i++;
         }
