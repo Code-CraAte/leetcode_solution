@@ -42,6 +42,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Code-CraAte/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
 | [4024-nearest-available-drone](https://github.com/Code-CraAte/leetcode_solution/tree/master/4024-nearest-available-drone) |
 ## Divide and Conquer
 |  |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Code-CraAte/leetcode_solution/tree/master/0141-linked-list-cycle) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
