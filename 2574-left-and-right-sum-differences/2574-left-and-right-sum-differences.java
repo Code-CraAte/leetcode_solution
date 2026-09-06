@@ -1,0 +1,16 @@
+class Solution {
+    public int[] leftRightDifference(int[] nums) {
+        int[] result = new int[nums.length];
+        int rightSum = 0;
+        for (int i=0; i<nums.length; i++) {
+            rightSum += nums[i];
+        }
+        int leftSum = 0;
+        for (int i = 0; i < nums.length; i++) {
+            rightSum -= nums[i];
+            result[i] = Math.abs(leftSum - rightSum);
+            leftSum += nums[i];
+        }
+        return result;
+    }
+}
