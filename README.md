@@ -18,6 +18,7 @@
 | [0012-integer-to-roman](https://github.com/Code-CraAte/leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Code-CraAte/leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3870-count-commas-in-range](https://github.com/Code-CraAte/leetcode_solution/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/Code-CraAte/leetcode_solution/tree/master/3945-digit-frequency-score) |
@@ -44,6 +45,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Code-CraAte/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1920-build-array-from-permutation](https://github.com/Code-CraAte/leetcode_solution/tree/master/1920-build-array-from-permutation) |
 | [2574-left-and-right-sum-differences](https://github.com/Code-CraAte/leetcode_solution/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Code-CraAte/leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Code-CraAte/leetcode_solution/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Code-CraAte/leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
 ## Number Theory
 |  |
