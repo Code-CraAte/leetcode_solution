@@ -17,6 +17,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Code-CraAte/leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/Code-CraAte/leetcode_solution/tree/master/1688-count-of-matches-in-tournament) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Code-CraAte/leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
