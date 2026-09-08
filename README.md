@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Code-CraAte/leetcode_solution/tree/master/1920-build-array-from-permutation) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Code-CraAte/leetcode_solution/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
@@ -101,6 +102,7 @@
 | [0234-palindrome-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Code-CraAte/leetcode_solution/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
