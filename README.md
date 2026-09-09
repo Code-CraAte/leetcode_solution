@@ -83,6 +83,7 @@
 | [0283-move-zeroes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [0234-palindrome-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Code-CraAte/leetcode_solution/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
