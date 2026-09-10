@@ -53,6 +53,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Code-CraAte/leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Code-CraAte/leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
 | [4024-nearest-available-drone](https://github.com/Code-CraAte/leetcode_solution/tree/master/4024-nearest-available-drone) |
 ## Divide and Conquer
@@ -147,4 +148,12 @@
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Code-CraAte/leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Code-CraAte/leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
