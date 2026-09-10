@@ -18,6 +18,7 @@
 | [0012-integer-to-roman](https://github.com/Code-CraAte/leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/Code-CraAte/leetcode_solution/tree/master/1688-count-of-matches-in-tournament) |
 | [2485-find-the-pivot-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/2485-find-the-pivot-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -111,6 +112,7 @@
 | [0234-palindrome-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Code-CraAte/leetcode_solution/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
