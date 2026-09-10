@@ -56,6 +56,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Code-CraAte/leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
+| [3978-unique-middle-element](https://github.com/Code-CraAte/leetcode_solution/tree/master/3978-unique-middle-element) |
 | [4024-nearest-available-drone](https://github.com/Code-CraAte/leetcode_solution/tree/master/4024-nearest-available-drone) |
 ## Divide and Conquer
 |  |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+| [3978-unique-middle-element](https://github.com/Code-CraAte/leetcode_solution/tree/master/3978-unique-middle-element) |
 ## Quickselect
 |  |
 | ------- |
