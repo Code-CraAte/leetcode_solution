@@ -25,6 +25,7 @@
 | [3099-harshad-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/3099-harshad-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Code-CraAte/leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3870-count-commas-in-range](https://github.com/Code-CraAte/leetcode_solution/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Code-CraAte/leetcode_solution/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/Code-CraAte/leetcode_solution/tree/master/3945-digit-frequency-score) |
 ## String
