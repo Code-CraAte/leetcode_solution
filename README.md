@@ -31,6 +31,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/Code-CraAte/leetcode_solution/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/Code-CraAte/leetcode_solution/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/3959-check-good-integer) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [1920-build-array-from-permutation](https://github.com/Code-CraAte/leetcode_solution/tree/master/1920-build-array-from-permutation) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Code-CraAte/leetcode_solution/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
+| [3959-check-good-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/3959-check-good-integer) |
 ## Linked List
 |  |
 | ------- |
