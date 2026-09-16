@@ -34,6 +34,7 @@
 | [3870-count-commas-in-range](https://github.com/Code-CraAte/leetcode_solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Code-CraAte/leetcode_solution/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Code-CraAte/leetcode_solution/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/Code-CraAte/leetcode_solution/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/3959-check-good-integer) |
 ## String
@@ -188,6 +189,7 @@
 | [1952-three-divisors](https://github.com/Code-CraAte/leetcode_solution/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Code-CraAte/leetcode_solution/tree/master/2427-number-of-common-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Code-CraAte/leetcode_solution/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Graph Theory
 |  |
 | ------- |
