@@ -33,6 +33,7 @@
 | [3099-harshad-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/3099-harshad-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Code-CraAte/leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Code-CraAte/leetcode_solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Code-CraAte/leetcode_solution/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3870-count-commas-in-range](https://github.com/Code-CraAte/leetcode_solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Code-CraAte/leetcode_solution/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -128,6 +129,7 @@
 | [1920-build-array-from-permutation](https://github.com/Code-CraAte/leetcode_solution/tree/master/1920-build-array-from-permutation) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Code-CraAte/leetcode_solution/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Code-CraAte/leetcode_solution/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3959-check-good-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/3959-check-good-integer) |
 ## Linked List
 |  |
