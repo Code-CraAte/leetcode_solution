@@ -20,6 +20,7 @@
 | [0002-add-two-numbers](https://github.com/Code-CraAte/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Code-CraAte/leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Code-CraAte/leetcode_solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -163,6 +164,7 @@
 | [0143-reorder-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -224,4 +226,12 @@
 |  |
 | ------- |
 | [2928-distribute-candies-among-children-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/2928-distribute-candies-among-children-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
