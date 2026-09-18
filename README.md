@@ -23,6 +23,7 @@
 | [0509-fibonacci-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Code-CraAte/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Code-CraAte/leetcode_solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Code-CraAte/leetcode_solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/Code-CraAte/leetcode_solution/tree/master/1952-three-divisors) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Code-CraAte/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Code-CraAte/leetcode_solution/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Simulation
 |  |
