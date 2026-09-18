@@ -76,6 +76,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Code-CraAte/leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3978-unique-middle-element](https://github.com/Code-CraAte/leetcode_solution/tree/master/3978-unique-middle-element) |
 | [4024-nearest-available-drone](https://github.com/Code-CraAte/leetcode_solution/tree/master/4024-nearest-available-drone) |
 ## Divide and Conquer
@@ -114,6 +115,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
