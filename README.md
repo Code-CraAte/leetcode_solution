@@ -26,6 +26,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Code-CraAte/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Code-CraAte/leetcode_solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Code-CraAte/leetcode_solution/tree/master/1688-count-of-matches-in-tournament) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Code-CraAte/leetcode_solution/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1952-three-divisors](https://github.com/Code-CraAte/leetcode_solution/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Code-CraAte/leetcode_solution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Code-CraAte/leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
