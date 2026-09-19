@@ -32,6 +32,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/Code-CraAte/leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/Code-CraAte/leetcode_solution/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/2485-find-the-pivot-integer) |
+| [2544-alternating-digit-sum](https://github.com/Code-CraAte/leetcode_solution/tree/master/2544-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Code-CraAte/leetcode_solution/tree/master/2651-calculate-delayed-arrival-time) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2928-distribute-candies-among-children-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/2928-distribute-candies-among-children-i) |
