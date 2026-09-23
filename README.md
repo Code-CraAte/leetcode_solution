@@ -28,6 +28,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Code-CraAte/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/Code-CraAte/leetcode_solution/tree/master/1492-the-kth-factor-of-n) |
+| [1518-water-bottles](https://github.com/Code-CraAte/leetcode_solution/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Code-CraAte/leetcode_solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Code-CraAte/leetcode_solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Code-CraAte/leetcode_solution/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -150,6 +151,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/Code-CraAte/leetcode_solution/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Code-CraAte/leetcode_solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Code-CraAte/leetcode_solution/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Code-CraAte/leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
