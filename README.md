@@ -85,6 +85,7 @@
 | [0283-move-zeroes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Code-CraAte/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Code-CraAte/leetcode_solution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Code-CraAte/leetcode_solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Code-CraAte/leetcode_solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -162,6 +163,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/Code-CraAte/leetcode_solution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/Code-CraAte/leetcode_solution/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Code-CraAte/leetcode_solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Code-CraAte/leetcode_solution/tree/master/1920-build-array-from-permutation) |
