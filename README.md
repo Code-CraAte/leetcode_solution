@@ -17,6 +17,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Code-CraAte/leetcode_solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Code-CraAte/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/Code-CraAte/leetcode_solution/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -107,6 +108,7 @@
 | [3151-special-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3151-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Code-CraAte/leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Code-CraAte/leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -136,6 +138,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Code-CraAte/leetcode_solution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Code-CraAte/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3978-unique-middle-element](https://github.com/Code-CraAte/leetcode_solution/tree/master/3978-unique-middle-element) |
 ## Quickselect
 |  |
