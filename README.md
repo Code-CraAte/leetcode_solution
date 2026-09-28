@@ -42,6 +42,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/Code-CraAte/leetcode_solution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Code-CraAte/leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Code-CraAte/leetcode_solution/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2427-number-of-common-factors](https://github.com/Code-CraAte/leetcode_solution/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Code-CraAte/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2485-find-the-pivot-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/2485-find-the-pivot-integer) |
@@ -99,6 +100,7 @@
 | [1920-build-array-from-permutation](https://github.com/Code-CraAte/leetcode_solution/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Code-CraAte/leetcode_solution/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Code-CraAte/leetcode_solution/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Code-CraAte/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/Code-CraAte/leetcode_solution/tree/master/2574-left-and-right-sum-differences) |
@@ -183,6 +185,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/Code-CraAte/leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Code-CraAte/leetcode_solution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Code-CraAte/leetcode_solution/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Code-CraAte/leetcode_solution/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3959-check-good-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/3959-check-good-integer) |
@@ -255,6 +258,7 @@
 | [1250-check-if-it-is-a-good-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1250-check-if-it-is-a-good-array) |
 | [1492-the-kth-factor-of-n](https://github.com/Code-CraAte/leetcode_solution/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Code-CraAte/leetcode_solution/tree/master/1952-three-divisors) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2427-number-of-common-factors](https://github.com/Code-CraAte/leetcode_solution/tree/master/2427-number-of-common-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -290,6 +294,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2928-distribute-candies-among-children-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/2928-distribute-candies-among-children-i) |
 ## Dynamic Programming
 |  |
