@@ -99,6 +99,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Code-CraAte/leetcode_solution/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Code-CraAte/leetcode_solution/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3151-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Code-CraAte/leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
