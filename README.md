@@ -373,4 +373,8 @@
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Code-CraAte/leetcode_solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Code-CraAte/leetcode_solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
