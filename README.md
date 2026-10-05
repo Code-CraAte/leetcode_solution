@@ -56,6 +56,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Code-CraAte/leetcode_solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Code-CraAte/leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Code-CraAte/leetcode_solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Code-CraAte/leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Code-CraAte/leetcode_solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Code-CraAte/leetcode_solution/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -131,6 +132,7 @@
 | [3151-special-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3151-special-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Code-CraAte/leetcode_solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Code-CraAte/leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Code-CraAte/leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
