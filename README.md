@@ -135,6 +135,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Code-CraAte/leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Code-CraAte/leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Code-CraAte/leetcode_solution/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/3745-maximize-expression-of-three-elements) |
