@@ -84,6 +84,7 @@
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Code-CraAte/leetcode_solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Code-CraAte/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-maximum-ice-cream-bars](https://github.com/Code-CraAte/leetcode_solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Code-CraAte/leetcode_solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -107,6 +108,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Code-CraAte/leetcode_solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Code-CraAte/leetcode_solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Code-CraAte/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Code-CraAte/leetcode_solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Code-CraAte/leetcode_solution/tree/master/1833-maximum-ice-cream-bars) |
@@ -189,6 +191,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Code-CraAte/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Code-CraAte/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
