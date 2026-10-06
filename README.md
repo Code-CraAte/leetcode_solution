@@ -111,6 +111,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/Code-CraAte/leetcode_solution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Code-CraAte/leetcode_solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Code-CraAte/leetcode_solution/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Code-CraAte/leetcode_solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Code-CraAte/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
