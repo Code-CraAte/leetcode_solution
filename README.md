@@ -92,6 +92,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Code-CraAte/leetcode_solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Code-CraAte/leetcode_solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Code-CraAte/leetcode_solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2706-buy-two-chocolates](https://github.com/Code-CraAte/leetcode_solution/tree/master/2706-buy-two-chocolates) |
@@ -125,6 +126,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Code-CraAte/leetcode_solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Code-CraAte/leetcode_solution/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Code-CraAte/leetcode_solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Code-CraAte/leetcode_solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -386,6 +388,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Code-CraAte/leetcode_solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/Code-CraAte/leetcode_solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Code-CraAte/leetcode_solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Code-CraAte/leetcode_solution/tree/master/2706-buy-two-chocolates) |
