@@ -134,6 +134,7 @@
 | [2706-buy-two-chocolates](https://github.com/Code-CraAte/leetcode_solution/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Code-CraAte/leetcode_solution/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/Code-CraAte/leetcode_solution/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Code-CraAte/leetcode_solution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -273,6 +274,7 @@
 | [2427-number-of-common-factors](https://github.com/Code-CraAte/leetcode_solution/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2928-distribute-candies-among-children-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/2928-distribute-candies-among-children-i) |
+| [2951-find-the-peaks](https://github.com/Code-CraAte/leetcode_solution/tree/master/2951-find-the-peaks) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/3745-maximize-expression-of-three-elements) |
 | [4024-nearest-available-drone](https://github.com/Code-CraAte/leetcode_solution/tree/master/4024-nearest-available-drone) |
 ## Stack
