@@ -22,6 +22,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3842-toggle-light-bulbs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3842-toggle-light-bulbs) |
 | [3945-digit-frequency-score](https://github.com/Code-CraAte/leetcode_solution/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -101,6 +102,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Code-CraAte/leetcode_solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/3745-maximize-expression-of-three-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3842-toggle-light-bulbs) |
 ## Array
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/3745-maximize-expression-of-three-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Code-CraAte/leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
@@ -239,6 +242,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Code-CraAte/leetcode_solution/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3842-toggle-light-bulbs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3842-toggle-light-bulbs) |
 | [3959-check-good-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/3959-check-good-integer) |
 ## Linked List
 |  |
