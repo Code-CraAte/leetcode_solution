@@ -11,6 +11,7 @@
 | [0242-valid-anagram](https://github.com/Code-CraAte/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Code-CraAte/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -112,6 +113,7 @@
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Code-CraAte/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1250-check-if-it-is-a-good-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Code-CraAte/leetcode_solution/tree/master/1389-create-target-array-in-the-given-order) |
@@ -295,6 +297,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Code-CraAte/leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -420,4 +423,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Code-CraAte/leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
