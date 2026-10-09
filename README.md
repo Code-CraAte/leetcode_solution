@@ -56,6 +56,7 @@
 | [2651-calculate-delayed-arrival-time](https://github.com/Code-CraAte/leetcode_solution/tree/master/2651-calculate-delayed-arrival-time) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2928-distribute-candies-among-children-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/2928-distribute-candies-among-children-i) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Code-CraAte/leetcode_solution/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Code-CraAte/leetcode_solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Code-CraAte/leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -146,6 +147,7 @@
 | [2951-find-the-peaks](https://github.com/Code-CraAte/leetcode_solution/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Code-CraAte/leetcode_solution/tree/master/3074-apple-redistribution-into-boxes) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Code-CraAte/leetcode_solution/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3151-special-array-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
