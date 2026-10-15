@@ -19,6 +19,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Code-CraAte/leetcode_solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Code-CraAte/leetcode_solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Code-CraAte/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Code-CraAte/leetcode_solution/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -153,6 +154,7 @@
 | [2706-buy-two-chocolates](https://github.com/Code-CraAte/leetcode_solution/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Code-CraAte/leetcode_solution/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/Code-CraAte/leetcode_solution/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Code-CraAte/leetcode_solution/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -443,4 +445,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/0496-next-greater-element-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
