@@ -176,6 +176,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Code-CraAte/leetcode_solution/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Code-CraAte/leetcode_solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -256,6 +257,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Code-CraAte/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Code-CraAte/leetcode_solution/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Code-CraAte/leetcode_solution/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3842-toggle-light-bulbs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3842-toggle-light-bulbs) |
 | [3959-check-good-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/3959-check-good-integer) |
