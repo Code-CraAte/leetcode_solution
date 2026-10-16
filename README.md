@@ -17,6 +17,7 @@
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Code-CraAte/leetcode_solution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Code-CraAte/leetcode_solution/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Code-CraAte/leetcode_solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Code-CraAte/leetcode_solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Code-CraAte/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -146,6 +147,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Code-CraAte/leetcode_solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Code-CraAte/leetcode_solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Code-CraAte/leetcode_solution/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Code-CraAte/leetcode_solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Code-CraAte/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -232,6 +234,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Code-CraAte/leetcode_solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Code-CraAte/leetcode_solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -306,6 +309,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Code-CraAte/leetcode_solution/tree/master/1952-three-divisors) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Code-CraAte/leetcode_solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Code-CraAte/leetcode_solution/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2928-distribute-candies-among-children-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/2928-distribute-candies-among-children-i) |
