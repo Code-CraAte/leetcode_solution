@@ -108,6 +108,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Code-CraAte/leetcode_solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Code-CraAte/leetcode_solution/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Code-CraAte/leetcode_solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Code-CraAte/leetcode_solution/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2706-buy-two-chocolates](https://github.com/Code-CraAte/leetcode_solution/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Code-CraAte/leetcode_solution/tree/master/2733-neither-minimum-nor-maximum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Code-CraAte/leetcode_solution/tree/master/3074-apple-redistribution-into-boxes) |
@@ -156,6 +157,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Code-CraAte/leetcode_solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Code-CraAte/leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Code-CraAte/leetcode_solution/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Code-CraAte/leetcode_solution/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -369,6 +371,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Code-CraAte/leetcode_solution/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Code-CraAte/leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Euclidean Algorithm
 |  |
