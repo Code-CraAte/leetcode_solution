@@ -74,6 +74,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Code-CraAte/leetcode_solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Code-CraAte/leetcode_solution/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Code-CraAte/leetcode_solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Code-CraAte/leetcode_solution/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -117,6 +118,7 @@
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/3745-maximize-expression-of-three-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Code-CraAte/leetcode_solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/3745-maximize-expression-of-three-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Code-CraAte/leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
@@ -245,6 +248,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/Code-CraAte/leetcode_solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Code-CraAte/leetcode_solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
@@ -281,6 +285,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Code-CraAte/leetcode_solution/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3842-toggle-light-bulbs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3959-check-good-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/3959-check-good-integer) |
 ## Linked List
 |  |
@@ -363,6 +368,7 @@
 | [2427-number-of-common-factors](https://github.com/Code-CraAte/leetcode_solution/tree/master/2427-number-of-common-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Code-CraAte/leetcode_solution/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Graph Theory
 |  |
