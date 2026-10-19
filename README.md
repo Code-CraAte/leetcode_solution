@@ -140,6 +140,7 @@
 | [1720-decode-xored-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1720-decode-xored-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Code-CraAte/leetcode_solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Code-CraAte/leetcode_solution/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/Code-CraAte/leetcode_solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Code-CraAte/leetcode_solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -431,6 +432,7 @@
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Code-CraAte/leetcode_solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Code-CraAte/leetcode_solution/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/Code-CraAte/leetcode_solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Code-CraAte/leetcode_solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
