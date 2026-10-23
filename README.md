@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Code-CraAte/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0078-subsets](https://github.com/Code-CraAte/leetcode_solution/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0283-move-zeroes) |
@@ -267,6 +268,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Code-CraAte/leetcode_solution/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Code-CraAte/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1720-decode-xored-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1720-decode-xored-array) |
@@ -502,4 +504,8 @@
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Code-CraAte/leetcode_solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
