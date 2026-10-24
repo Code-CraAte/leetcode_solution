@@ -156,6 +156,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Code-CraAte/leetcode_solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Code-CraAte/leetcode_solution/tree/master/1920-build-array-from-permutation) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Code-CraAte/leetcode_solution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Code-CraAte/leetcode_solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Code-CraAte/leetcode_solution/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -278,6 +279,7 @@
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Code-CraAte/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1720-decode-xored-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1720-decode-xored-array) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Code-CraAte/leetcode_solution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Code-CraAte/leetcode_solution/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -341,6 +343,7 @@
 | [0204-count-primes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/Code-CraAte/leetcode_solution/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/Code-CraAte/leetcode_solution/tree/master/1952-three-divisors) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Code-CraAte/leetcode_solution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Code-CraAte/leetcode_solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Code-CraAte/leetcode_solution/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -515,4 +518,5 @@
 | ------- |
 | [0078-subsets](https://github.com/Code-CraAte/leetcode_solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Code-CraAte/leetcode_solution/tree/master/0090-subsets-ii) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Code-CraAte/leetcode_solution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
