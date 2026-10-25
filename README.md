@@ -130,6 +130,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Code-CraAte/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0078-subsets](https://github.com/Code-CraAte/leetcode_solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Code-CraAte/leetcode_solution/tree/master/0090-subsets-ii) |
+| [0198-house-robber](https://github.com/Code-CraAte/leetcode_solution/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0283-move-zeroes) |
@@ -425,6 +426,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Code-CraAte/leetcode_solution/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Code-CraAte/leetcode_solution/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Memoization
