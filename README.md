@@ -36,6 +36,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Code-CraAte/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Code-CraAte/leetcode_solution/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/Code-CraAte/leetcode_solution/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0509-fibonacci-number) |
@@ -421,11 +422,13 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Code-CraAte/leetcode_solution/tree/master/0062-unique-paths) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2928-distribute-candies-among-children-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/2928-distribute-candies-among-children-i) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Code-CraAte/leetcode_solution/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Code-CraAte/leetcode_solution/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Code-CraAte/leetcode_solution/tree/master/3857-minimum-cost-to-split-into-ones) |
