@@ -153,6 +153,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Code-CraAte/leetcode_solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Code-CraAte/leetcode_solution/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1829-maximum-xor-for-each-query](https://github.com/Code-CraAte/leetcode_solution/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-maximum-ice-cream-bars](https://github.com/Code-CraAte/leetcode_solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Code-CraAte/leetcode_solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -281,6 +282,7 @@
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Code-CraAte/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1720-decode-xored-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1720-decode-xored-array) |
+| [1829-maximum-xor-for-each-query](https://github.com/Code-CraAte/leetcode_solution/tree/master/1829-maximum-xor-for-each-query) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Code-CraAte/leetcode_solution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Code-CraAte/leetcode_solution/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -371,6 +373,7 @@
 |  |
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Code-CraAte/leetcode_solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1829-maximum-xor-for-each-query](https://github.com/Code-CraAte/leetcode_solution/tree/master/1829-maximum-xor-for-each-query) |
 | [2485-find-the-pivot-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Code-CraAte/leetcode_solution/tree/master/2574-left-and-right-sum-differences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
