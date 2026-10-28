@@ -92,6 +92,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/Code-CraAte/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/Code-CraAte/leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Code-CraAte/leetcode_solution/tree/master/1143-longest-common-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Code-CraAte/leetcode_solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Code-CraAte/leetcode_solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Code-CraAte/leetcode_solution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -434,6 +435,7 @@
 | [0062-unique-paths](https://github.com/Code-CraAte/leetcode_solution/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Code-CraAte/leetcode_solution/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Code-CraAte/leetcode_solution/tree/master/1143-longest-common-subsequence) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Code-CraAte/leetcode_solution/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Memoization
 |  |
@@ -527,4 +529,8 @@
 | [0078-subsets](https://github.com/Code-CraAte/leetcode_solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Code-CraAte/leetcode_solution/tree/master/0090-subsets-ii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Code-CraAte/leetcode_solution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Code-CraAte/leetcode_solution/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
