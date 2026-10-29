@@ -136,6 +136,7 @@
 | [0204-count-primes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Code-CraAte/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Code-CraAte/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -271,6 +272,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Code-CraAte/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Code-CraAte/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Code-CraAte/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Code-CraAte/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -434,6 +436,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Code-CraAte/leetcode_solution/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Code-CraAte/leetcode_solution/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Code-CraAte/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Code-CraAte/leetcode_solution/tree/master/1143-longest-common-subsequence) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Code-CraAte/leetcode_solution/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -533,4 +536,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Code-CraAte/leetcode_solution/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Code-CraAte/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
