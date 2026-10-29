@@ -24,6 +24,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Code-CraAte/leetcode_solution/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Code-CraAte/leetcode_solution/tree/master/3146-permutation-difference-between-two-strings) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -97,6 +98,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Code-CraAte/leetcode_solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Code-CraAte/leetcode_solution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/Code-CraAte/leetcode_solution/tree/master/2418-sort-the-people) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Code-CraAte/leetcode_solution/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
