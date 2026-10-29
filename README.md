@@ -211,6 +211,7 @@
 | [3903-smallest-stable-index-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3978-unique-middle-element](https://github.com/Code-CraAte/leetcode_solution/tree/master/3978-unique-middle-element) |
+| [4020-elevator-requests-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/Code-CraAte/leetcode_solution/tree/master/4024-nearest-available-drone) |
 ## Divide and Conquer
 |  |
@@ -310,6 +311,7 @@
 | [3842-toggle-light-bulbs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3959-check-good-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/3959-check-good-integer) |
+| [4020-elevator-requests-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/4020-elevator-requests-i) |
 ## Linked List
 |  |
 | ------- |
