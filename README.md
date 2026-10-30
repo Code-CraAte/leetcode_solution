@@ -103,6 +103,7 @@
 | [3146-permutation-difference-between-two-strings](https://github.com/Code-CraAte/leetcode_solution/tree/master/3146-permutation-difference-between-two-strings) |
 | [3340-check-balanced-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Code-CraAte/leetcode_solution/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
 | ------- |
@@ -273,6 +274,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Code-CraAte/leetcode_solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Code-CraAte/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Code-CraAte/leetcode_solution/tree/master/3884-first-matching-character-from-both-ends) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
