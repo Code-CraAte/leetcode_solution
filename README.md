@@ -204,6 +204,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Code-CraAte/leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Code-CraAte/leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Code-CraAte/leetcode_solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Code-CraAte/leetcode_solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Code-CraAte/leetcode_solution/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -298,6 +299,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Code-CraAte/leetcode_solution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Code-CraAte/leetcode_solution/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Code-CraAte/leetcode_solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
 |  |
