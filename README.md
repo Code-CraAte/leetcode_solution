@@ -101,6 +101,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Code-CraAte/leetcode_solution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/Code-CraAte/leetcode_solution/tree/master/2418-sort-the-people) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Code-CraAte/leetcode_solution/tree/master/3146-permutation-difference-between-two-strings) |
+| [3340-check-balanced-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
