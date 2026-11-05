@@ -112,6 +112,7 @@
 | [0242-valid-anagram](https://github.com/Code-CraAte/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Code-CraAte/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Code-CraAte/leetcode_solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Code-CraAte/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Code-CraAte/leetcode_solution/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -149,6 +150,7 @@
 | [0496-next-greater-element-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Code-CraAte/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1250-check-if-it-is-a-good-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Code-CraAte/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Code-CraAte/leetcode_solution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Code-CraAte/leetcode_solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -272,6 +274,7 @@
 | [0283-move-zeroes](https://github.com/Code-CraAte/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Code-CraAte/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Code-CraAte/leetcode_solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Code-CraAte/leetcode_solution/tree/master/2367-number-of-arithmetic-triplets) |
@@ -287,6 +290,7 @@
 | [0268-missing-number](https://github.com/Code-CraAte/leetcode_solution/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Code-CraAte/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Code-CraAte/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Code-CraAte/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Code-CraAte/leetcode_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Code-CraAte/leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
