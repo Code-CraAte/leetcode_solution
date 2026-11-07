@@ -103,6 +103,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Code-CraAte/leetcode_solution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/Code-CraAte/leetcode_solution/tree/master/2418-sort-the-people) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Code-CraAte/leetcode_solution/tree/master/3146-permutation-difference-between-two-strings) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Code-CraAte/leetcode_solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3340-check-balanced-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Code-CraAte/leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Code-CraAte/leetcode_solution/tree/master/3884-first-matching-character-from-both-ends) |
@@ -306,6 +307,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Code-CraAte/leetcode_solution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Code-CraAte/leetcode_solution/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Code-CraAte/leetcode_solution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Code-CraAte/leetcode_solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Code-CraAte/leetcode_solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Code-CraAte/leetcode_solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
@@ -557,6 +559,7 @@
 | [0078-subsets](https://github.com/Code-CraAte/leetcode_solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Code-CraAte/leetcode_solution/tree/master/0090-subsets-ii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Code-CraAte/leetcode_solution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Code-CraAte/leetcode_solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Longest Common Subsequence
 |  |
 | ------- |
